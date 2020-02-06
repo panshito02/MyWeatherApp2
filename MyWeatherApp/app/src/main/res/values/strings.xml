@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyWeatherApp</string>
+    <string name="City">City</string>
+    <string name="Humidity">Humidity</string>
+    <string name="Temperature">Tmp:</string>
+    <string name="MinTemperature">Min:</string>
+    <string name="MaxTemperature">Max</string>
+    <string name="Description">Description</string>
+
+
+</resources>
